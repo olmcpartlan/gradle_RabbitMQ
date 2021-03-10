@@ -13,6 +13,7 @@ plugins {
 
 repositories {
     // Use JCenter for resolving dependencies.
+    // Local dependencies are found in ~/gradle
     jcenter()
 }
 
